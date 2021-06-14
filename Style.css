@@ -1,0 +1,12 @@
+.heading{
+color: blue;
+
+}
+.nav-item {
+    margin: 14px;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+}
